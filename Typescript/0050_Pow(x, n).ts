@@ -1,4 +1,4 @@
 function myPow(x: number, n: number): number {
-    return x**n;
+    return Math.pow(x,n);
     // x**n
 };
